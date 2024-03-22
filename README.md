@@ -6,6 +6,8 @@ chmod u+x init_replit
 
 ./init_replit
 
+./gen_blog
+
 On Replit:
 
 for cmsimde: pip install flask flask_cors bs4 lxml pelican markdown gevent
