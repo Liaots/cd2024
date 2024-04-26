@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習41123142網誌</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-04-19T13:20:00+08:00</updated><entry><title>w8課程網誌</title><link href="./41123142_w9.html" rel="alternate"></link><published>2024-04-19T13:20:00+08:00</published><updated>2024-04-19T06:16:50+08:00</updated><author><name>41123142</name></author><id>tag:None,2024-04-19:./41123142_w9.html</id><summary type="html">&lt;p&gt;網際內容管理與協同產品設計實習課程網誌.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習41123142網誌</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-04-26T13:20:00+08:00</updated><entry><title>w10課程網誌</title><link href="./41123142_w10.html" rel="alternate"></link><published>2024-04-26T13:20:00+08:00</published><updated>2024-04-26T09:04:18+08:00</updated><author><name>41123142</name></author><id>tag:None,2024-04-26:./41123142_w10.html</id><summary type="html">&lt;p&gt;網際內容管理與協同產品設計實習課程網誌.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;網際內容管理與協同產品設計實習課程網誌.&lt;/p&gt;
+
+
+&lt;h1&gt;內容管理系統10&lt;/h1&gt;
+&lt;p&gt;協同產品設計實習第十週實習操作, 透過 ChatGPT、Gemini 1.5 Pro 與 Claude 3 的協助下進行.&lt;/p&gt;
+&lt;p&gt;W10 起 Replit 已經可以用來維護分組倉儲&lt;/p&gt;
+&lt;p&gt;建立各班學員的倉儲、網站與分組連結
+這是 W10 實習的任務一:&lt;/p&gt;
+&lt;p&gt;已知: 2b 初步資料放入數列 可以將 2b.txt 即時資料取出, 並且將每一行隔開後, 逐一放入數列.&lt;/p&gt;
+&lt;p&gt;後續處理: 只要透過 for 重複迴圈, 就可以從上列資料中每位學員的基本資料 (學號、Github 帳號與組別) 中直接在網頁建立所需的 html.&lt;/p&gt;
+&lt;p&gt;學員倉儲連結 template: https://github.com/學員帳號/cd2024&lt;/p&gt;
+&lt;p&gt;學員網站連結 template: https://學員帳號.github.io/cd2024&lt;/p&gt;
+&lt;p&gt;2b 分組倉儲連結 template: https://github.com/mdecd2024/2b-midbg組別&lt;/p&gt;
+&lt;p&gt;2a 分組倉儲連結 template: https://github.com/mdecd2024/2a-midag組別&lt;/p&gt;</content><category term="w10"></category><category term="w10網誌編寫"></category><category term="pelican"></category></entry><entry><title>w9課程網誌</title><link href="./41123142_w9.html" rel="alternate"></link><published>2024-04-19T13:20:00+08:00</published><updated>2024-04-26T09:03:24+08:00</updated><author><name>41123142</name></author><id>tag:None,2024-04-19:./41123142_w9.html</id><summary type="html">&lt;p&gt;網際內容管理與協同產品設計實習課程網誌.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;網際內容管理與協同產品設計實習課程網誌.&lt;/p&gt;
 
 
