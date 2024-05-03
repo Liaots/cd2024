@@ -1,8 +1,8 @@
 <h1>About</h1>
-<p>網頁: 請填入目前網站所在的 URL, <a href="https://mde.tw/cmsimde_site">https://mde.tw/cmsimde_site</a> </p>
-<p>網誌: 請填入目前網站所在的 URL/blog, <a href="https://mde.tw/cmsimde_site/blog">https://mde.tw/cmsimde_site/blog</a> </p>
-<p>簡報: 請填入目前網站所在的 URL/reveal, <a href="https://mde.tw/cmsimde_site/reveal">https://mde.tw/cmsimde_site/reveal</a> </p>
-<p>倉儲: 請填入目前網站所對應的 Github 倉儲連結</p>
+<p>網頁: <a href="https://liaots.github.io/cd2024/">https://liaots.github.io/cd2024/</a></p>
+<p>網誌: <a href="https://liaots.github.io/cd2024/blog/">https://liaots.github.io/cd2024/blog/</a></p>
+<p>簡報: <a href="https://liaots.github.io/cd2024/reveal/">https://liaots.github.io/cd2024/reveal/</a></p>
+<p>倉儲: <a href="https://github.com/Liaots/cd2024">https://github.com/Liaots/cd2024</a></p>
 <p>本 cmsimde 網際內容管理系統的對應 Template 倉儲:</p>
 <p style="padding-left: 30px;"><a href="https://github.com/mdecycu/cmsimde_site">https://github.com/mdecycu/cmsimde_site</a></p>
 <p style="padding-left: 30px;">此 Template 將 cmsimde 作為子目錄而非子模組, 使用者可以依照需求自行修改</p>
@@ -23,7 +23,8 @@
 <p><span style="background-color: #ccffcc;">SStatic</span> - Start Static Site - 利用 Python 啟動網站伺服功能, 可以讓使用者檢查轉檔後的靜態網站內容.</p>
 <p><span style="background-color: #ccffcc;">RStatic</span> - Replit Static Site URL - 僅用於 Replit 模式, 當使用者按下 SStatic 後, 可以按下 RStatic 進入當下尚未推向 Github Pages 的靜態網站.</p>
 <p><span style="background-color: #ccffcc;">80</span> - 由 init.py 中 static_port 所決定的連結字串, 一般不使用 80, 只有在 Replit 中為了與動態網站共用 port, 才特別設為 80.</p>
-<p></p><h1>Replit</h1>
+<p></p>
+<h1>Replit</h1>
 <p><a href="https://replit.com">https://replit.com</a></p>
 <p>利用 init_replit 指令安裝所需 Python 模組<br/><br/>chmod u+x init_replit<br/><br/>./init_replit</p>
 <p dir="auto">On Replit:</p>
@@ -36,7 +37,8 @@
 <p dir="auto"></p>
 <p dir="auto">for IPv6 only Ubuntu:<br/><br/>.ssh 目錄中的 config, 將 SSH session 名稱設為 github.com:<br/><br/>Host github.com<br/>User git<br/>Hostname github.com<br/>ProxyCommand /usr/bin/ncat --proxy p4.cycu.org:3128 --proxy-type http %h %p<br/><br/>for Replit:<br/><br/>.ssh 目錄中的 config, 將 SSH session 名稱設為 github.com:<br/><br/>Host github.com<br/>User git<br/>Hostname github.co<br/>#since Replit works for IPv4, therefore no ProxyCommand setting needed<br/>#ProxyCommand /usr/bin/ncat --proxy p4.cycu.org:3128 --proxy-type http %h %p</p>
 <p></p>
-<p></p><h1>Brython</h1>
+<p></p>
+<h1>Brython</h1>
 <p><a href="https://en.wikipedia.org/wiki/Python_(programming_language)">https://en.wikipedia.org/wiki/Python_(programming_language)</a></p>
 <h4>Examples:</h4>
 <p style="padding-left: 30px;"><a href="https://gist.github.com/mdecycu/d9082d678096bd58378d6afe2c7fa05d">https://gist.github.com/mdecycu/d9082d678096bd58378d6afe2c7fa05d</a></p>
@@ -318,9 +320,51 @@ doc["threejsblock"].bind("click", threejsblock.do)
 <p></p>
 <p><!-- 程式執行 ouput 區 --></p>
 <div style="width: 100%; height: 100%;"><textarea autocomplete="off" id="kw_console2"></textarea></div>
-<p><!-- Brython 程式執行的結果, 都以 brython_div1 作為切入位置 --></p>
-<div id="brython_div2"></div>
-<!-- editor2 結束 --><hr/>
+<div style="width: 100%; height: 100%;"></div>
+<h1>論文摘要</h1>
+<!-- editor2 結束 -->
+<p><span>論文一：Construction and theoretical study of a ball balancing platform</span></p>
+<p>重點在實現在球的表面上平衡物體的目標。論文描述了平台的結構和建造過程，包括所使用的材料和製造方法。接著透過理論分析和數值模擬，探討了平台在不同條件下的平衡性能。研究發現，平台的設計和結構對於實現穩定平衡至關重要。最後，論文討論了潛在的應用和未來研究方向，以進一步改進和擴展這種球平衡平台的功能和性能。</p>
+<p><span></span></p>
+<p><span>論文二：A real time control system for balancing a ball on a platform with FPGA parallel implementation</span></p>
+<p>這篇論文描述了一個用於實時控制在平台上平衡球的系統，並采用了FPGA平行實現。論文介紹了該系統的整體架構，包括所使用的硬體和軟體組件。然後描述了控制算法的設計和實現，以實現對球位置的即時調整，以保持其在平台上的平衡。接著論文詳細介紹了在FPGA上實現該系統的平行化策略和技術。最後通過實驗和測試，驗證了系統的性能和穩定性。該系統的成功實現表明了FPGA平行計算在實時控制應用中的潛在優勢，並提供了一個可行的方法來實現這種類型的平衡系統。</p>
+<div class="flex-1 overflow-hidden">
+<div class="react-scroll-to-bottom--css-efjqm-79elbk h-full">
+<div class="react-scroll-to-bottom--css-efjqm-1n7m0yu">
+<div class="flex flex-col text-sm pb-9">
+<div class="w-full text-token-text-primary" data-scroll-anchor="true" data-testid="conversation-turn-5" dir="auto">
+<div class="py-2 px-3 text-base md:px-4 m-auto md:px-5 lg:px-1 xl:px-5">
+<div class="mx-auto flex flex-1 gap-3 text-base juice:gap-4 juice:md:gap-6 md:max-w-3xl lg:max-w-[40rem] xl:max-w-[48rem]">
+<div class="relative flex w-full min-w-0 flex-col agent-turn">
+<div class="flex-col gap-1 md:gap-3">
+<div class="flex flex-grow flex-col max-w-full">
+<div class="min-h-[20px] text-message flex flex-col items-start whitespace-pre-wrap break-words [.text-message+&amp;]:mt-5 overflow-x-auto gap-3" data-message-author-role="assistant" data-message-id="b6b2cbfe-dc9a-45b4-8111-a13847696740" dir="auto">
+<div class="markdown prose w-full break-words dark:prose-invert light">
+<p></p>
+<p>論文三：Simulation and Experimental Study of Ball Position Control at Biaxial Platform using State Space Approach</p>
+<p>這篇論文對雙軸平台上球位置控制的模擬和實驗研究，採用了狀態空間方法。論文介紹了所研究的雙軸平台的結構和系統特性。接著使用狀態空間方法建立了系統的數學模型，包括平台和球的動力學方程。然後利用模擬技術對系統進行了分析和測試，評估了不同控制策略的性能。在模擬研究的基礎上，進行了實驗驗證，通過實際構建的雙軸平台和相應的控制系統進行了測試。最後比較了模擬和實驗結果，驗證了狀態空間方法在實現雙軸平台上球位置控制方面的有效性和準確性。該研究為設計和實現類似系統提供了重要的參考和指導。</p>
+<p></p>
+<p><span>論文四：Design and Implementation a Ball Balancing System for Control Theory Course</span></p>
+<p>這篇論文描述了一個用於控制理論課程的球平衡系統的設計和實施。論文介紹了球平衡系統的整體結構和工作原理，包括所使用的感測器、控制器和執行器等組件。然後描述了系統的設計過程，包括控制算法的選擇和實現，以及硬體平台的選型和構建。接著通過模擬和實驗，評估了系統的性能和穩定性，並對控制理論中的各種概念進行了實際應用和驗證。最後論文討論了學生通過該系統在課堂上的學習效果和收穫，並提出了對未來改進和擴展的建議。這個球平衡系統為控制理論課程的教學提供了一個生動、具體的示例，有助於學生更好地理解和應用控制理論的基本原理和技術。<br/><span></span></p>
+<p></p>
+<p><span>論文五：Ball on the plate balancing control system</span></p>
+<p><span>這篇論文介紹了一種稱為「Ball on the Plate」的平衡控制系統。該系統為在實現通過調節平台上球的位置，使其保持平衡的目標。論文首先描述了系統的整體結構和工作原理，包括所使用的感測器、控制器和執行器等組件。接著介紹了系統的設計和實施過程，包括控制算法的開發和實現，以及硬體平台的構建和測試。然後通過模擬和實驗，評估了系統的性能和穩定性，並探討了不同控制參數對系統性能的影響。最後論文討論了該系統的潛在應用和未來改進的方向。這個平衡控制系統可應用於多個領域，如機器人控制、自動化生產等，並為相關研究和應用提供了一個重要的參考和基礎。</span></p>
+<p><span></span></p>
+<p><span>論文六：2D Ball Balancer Control using QUARC</span></p>
+<p>這篇論文描述了一種使用QUARC（Quick Control Prototype）的2D球平衡控制系統。QUARC是一種用於快速原型設計的工具，可以實時生成代碼，用於控制和監視實際硬體。論文首先介紹了2D球平衡系統的結構和工作原理，以及所用的感測器和執行器。接著描述了控制系統的設計和實施過程，包括控制算法的開發和QUARC的應用。然後通過模擬和實驗，評估了系統的性能和穩定性，並探討了不同控制策略對系統行為的影響。最後論文討論了該系統的應用前景和未來研究方向。這個基於QUARC的2D球平衡控制系統為快速原型開發提供了一個有效的工具，同時也為相關領域的研究和應用提供了重要參考。<br/><span></span></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<hr/>
 <p>
 <script src="https://unpkg.com/three@0.144.0/build/three.js" type="text/javascript"></script>
 </p>
