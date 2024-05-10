@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習41123142網誌</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-05-03T13:20:00+08:00</updated><entry><title>w11課程網誌</title><link href="./41123142_w11.html" rel="alternate"></link><published>2024-05-03T13:20:00+08:00</published><updated>2024-05-03T09:06:45+08:00</updated><author><name>41123142</name></author><id>tag:None,2024-05-03:./41123142_w11.html</id><summary type="html">&lt;p&gt;網際內容管理與協同產品設計實習課程網誌.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習41123142網誌</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-05-10T13:20:00+08:00</updated><entry><title>w12課程網誌</title><link href="./41123142_w12.html" rel="alternate"></link><published>2024-05-10T13:20:00+08:00</published><updated>2024-05-10T09:13:04+08:00</updated><author><name>41123142</name></author><id>tag:None,2024-05-10:./41123142_w12.html</id><summary type="html">&lt;p&gt;網際內容管理與協同產品設計實習課程網誌.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;網際內容管理與協同產品設計實習課程網誌.&lt;/p&gt;
+
+
+&lt;h1&gt;內容管理系統12&lt;/h1&gt;
+&lt;p&gt;參考程式:&lt;/p&gt;
+&lt;p&gt;nxopen_combine_block_and_drill_hole.py&lt;/p&gt;
+&lt;p&gt;利用 NXOpen Python 建立鋼球平衡台中的平台零件&lt;/p&gt;
+&lt;p&gt;利用 NXOpen Python 進行平台零件組立 (鋼球平衡台 NX 零件取自 https://github.com/40923157/cd2024/tree/main/downloads)&lt;/p&gt;
+&lt;p&gt;實習任務一: 請參考上列教學影片與參考程式, 將鋼球平衡台零組件的繪製與組立任務分配給組員, 由組員分別繳交至少一份零件繪製的 NXOpen Python 程式, 以及至少一份零件組立的 NXOpen Python 程式, 完成後, 請在個人的課程網誌紀錄 w12 實習任務一的執行心得.&lt;/p&gt;
+&lt;p&gt;將各分組倉儲設為評分倉儲的子模組
+實習任務二: 將分組倉儲設為評分網站子模組&lt;/p&gt;
+&lt;p&gt;2a 評分倉儲: https://github.com/mdecd2024/2astud-2asite&lt;/p&gt;
+&lt;p&gt;2b 評分倉儲: https://github.com/mdecd2024/2bstud-2bsite&lt;/p&gt;
+&lt;p&gt;以 2a 第一組分組倉儲 https://github.com/mdecd2024/2a-midag1 為例, 設為 2astud-2asite 倉儲名稱為 g1 的子模組指令為:&lt;/p&gt;
+&lt;p&gt;git submodule add https://github.com/mdecd2024/2a-midag1 g1&lt;/p&gt;
+&lt;p&gt;其餘各班與各組的子模組則依序命名為 g1, g2, g3 ......, 依此類推.&lt;/p&gt;
+&lt;p&gt;各班評分倉儲的各組子模組設定完成後, 可以設法依照先前各組整合分組 LaTeX 報告與分組網誌的方法, 整合全班各組項下各學員的網誌文章 (.html 格式) 與執行專案報告 (.pdf 格式)&lt;/p&gt;
+&lt;p&gt;請各分組先在各組的分組網誌與分組報告中說明, 該如何將分組整合流程擴大到全班協同?&lt;/p&gt;</content><category term="w12"></category><category term="w12網誌編寫"></category><category term="pelican"></category></entry><entry><title>w11課程網誌</title><link href="./41123142_w11.html" rel="alternate"></link><published>2024-05-03T13:20:00+08:00</published><updated>2024-05-03T09:06:45+08:00</updated><author><name>41123142</name></author><id>tag:None,2024-05-03:./41123142_w11.html</id><summary type="html">&lt;p&gt;網際內容管理與協同產品設計實習課程網誌.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;網際內容管理與協同產品設計實習課程網誌.&lt;/p&gt;
 
 
