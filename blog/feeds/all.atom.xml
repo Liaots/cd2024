@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習41123142網誌</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-05-10T13:20:00+08:00</updated><entry><title>w12課程網誌</title><link href="./41123142_w12.html" rel="alternate"></link><published>2024-05-10T13:20:00+08:00</published><updated>2024-05-10T09:13:04+08:00</updated><author><name>41123142</name></author><id>tag:None,2024-05-10:./41123142_w12.html</id><summary type="html">&lt;p&gt;網際內容管理與協同產品設計實習課程網誌.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習41123142網誌</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-05-17T13:20:00+08:00</updated><entry><title>w13課程網誌</title><link href="./41123142_w13.html" rel="alternate"></link><published>2024-05-17T13:20:00+08:00</published><updated>2024-05-17T09:06:11+08:00</updated><author><name>41123142</name></author><id>tag:None,2024-05-17:./41123142_w13.html</id><summary type="html">&lt;p&gt;網際內容管理與協同產品設計實習課程網誌.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;網際內容管理與協同產品設計實習課程網誌.&lt;/p&gt;
+
+
+&lt;h1&gt;內容管理系統13&lt;/h1&gt;
+&lt;p&gt;我們經常提起 Windows 64 位元操作系統環境下的所謂可攜程式系統, 其時主要的考量是希望所開發的工具不僅能在 Microsoft Windows 環境中使用, 同時也能在 Linux (這裡指 Ubuntu 操作系統) 以及 macOS (BSD 系統) 中執行.&lt;/p&gt;
+&lt;p&gt;無論是 Portable_2024.7z 或者最新釋出專用於 NX1872(2019.06 釋出, 目前已經不再更新) 用來開發 NXOpen Python 程式的可攜環境: Python_for_NX1872.7z, 都是在這樣的架構下產生.&lt;/p&gt;
+&lt;p&gt;由於數位裝置與網路的無所不在, 產品設計工程師必須能在任何地方進行輔助設計與內容管理, 更重要的是過程中所產生的數位資料必須儘可能在產品生命週期間放置在保全度較高的設備中, 於是對於面對手機、平板與電腦前面的工程師, 必須能將數位資料送到近端環境與雲端環境中的資料中心.&lt;/p&gt;
+&lt;p&gt;另外一個重點是, 隨著 AI 工具的普及, 雲端產品協同設計將成為主流, 各項系統設計與應用將逐一結合近端與雲端裝置, 成為無所不在的設計整合環境, 因此工程師除了應用既有的輔助設計套件外, 還要學習如何打造自己團隊使用的協同產品設計工具, 以下為兩個簡單的範例:&lt;/p&gt;
+&lt;p&gt;http://229.cycu.org:9447/?semester=1121&amp;amp;classid=設二甲 可以從教務主機擷取各學年的班級課表, 程式碼位於 nfulist_v2_2024.py, 此套件可以用於機械產品開發過程, 透過雲端程式即時擷取在設計運算或參數選擇時, 動態從其他零組件協同供應商或設計便覽伺服器中擷取所需的資料.&lt;/p&gt;
+&lt;p&gt;http://229.cycu.org:88 則是一個線上多人猜數字遊戲, 採用 Python 與 Javascript 結合 WebSocket 編寫, 使用者輸入姓名後, 可以同步參與多人猜數字遊戲, 每一階段各用戶只能最多猜 10 次, 每一輪優勝者可得一分. 程式碼位於 guess_game_server.py 與 guess_game.html.&lt;/p&gt;</content><category term="w13"></category><category term="w13網誌編寫"></category><category term="pelican"></category></entry><entry><title>w12課程網誌</title><link href="./41123142_w12.html" rel="alternate"></link><published>2024-05-10T13:20:00+08:00</published><updated>2024-05-10T09:13:04+08:00</updated><author><name>41123142</name></author><id>tag:None,2024-05-10:./41123142_w12.html</id><summary type="html">&lt;p&gt;網際內容管理與協同產品設計實習課程網誌.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;網際內容管理與協同產品設計實習課程網誌.&lt;/p&gt;
 
 
