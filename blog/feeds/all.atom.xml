@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習41123142網誌</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-05-17T13:20:00+08:00</updated><entry><title>w13課程網誌</title><link href="./41123142_w13.html" rel="alternate"></link><published>2024-05-17T13:20:00+08:00</published><updated>2024-05-17T09:06:11+08:00</updated><author><name>41123142</name></author><id>tag:None,2024-05-17:./41123142_w13.html</id><summary type="html">&lt;p&gt;網際內容管理與協同產品設計實習課程網誌.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習41123142網誌</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-05-24T13:20:00+08:00</updated><entry><title>w14課程網誌</title><link href="./41123142_w14.html" rel="alternate"></link><published>2024-05-24T13:20:00+08:00</published><updated>2024-05-24T08:48:41+08:00</updated><author><name>41123142</name></author><id>tag:None,2024-05-24:./41123142_w14.html</id><summary type="html">&lt;p&gt;網際內容管理與協同產品設計實習課程網誌.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;網際內容管理與協同產品設計實習課程網誌.&lt;/p&gt;
+
+
+&lt;h1&gt;內容管理系統14&lt;/h1&gt;
+&lt;p&gt;Python 解譯系統
+利用 gen_py3123_portable.py 在上列舊版的 Python 可攜環境執行, 可在 C:\tmp 建立最基本的可攜 Python3123 程式目錄.&lt;/p&gt;
+&lt;p&gt;若將 Python3123 放入先前舊版的可攜 Python371 data 目錄中, 且配合建立 start_ipv6_py3123.bat, 則可以將 Python 3.7.1 版的可攜 Python 升級為 Python 3.12.3 版.&lt;/p&gt;
+&lt;p&gt;但是利用上述流程所建立的 Python 3.12.3 版可攜程式並沒有 pip, 必須啟動 start_ipv6_py3123.bat 後, 在命令列執行 python get-pip.py 才能在可攜系統安裝 pip, 安裝 pip 後, 可以在命令列中以 pip list 查驗目前所安裝的 Python 模組.&lt;/p&gt;
+&lt;p&gt;前述之所以要在啟動可攜之後的命令列執行 get-pip.py 的原因是, pip.exe 會將執行時的 Python 解譯器位置直接寫入二位元檔案中, 若使用 Pythonw.exe, 所建立的 pip.exe 就只能在 Windows 圖形介面中使用, 因此, 為了讓可攜系統的 pip.exe 能夠在命令列中使用, 必須在執行 get-pip.py 時採用 Python.exe.&lt;/p&gt;
+&lt;p&gt;其次, 用於 Siemens NXOpen Python 開發用的 版本, 必須配合各 NX 版本編譯其 NXOpen 動態連結程式庫所使用的 Python 版本, 以 NX1872 而言, 必須對應使用 Python 3.7.1 相容版本. 而 NX1980 則必須使用 Python 3.8.8 相容版本, NX2008 與 NX2027 則配合使用 Python 3.8.12 相容版本, NX2206 與 NX2312 必須使用 Python 3.10.4 與 Python 3.10.12 相容版本.&lt;/p&gt;</content><category term="w14"></category><category term="w14網誌編寫"></category><category term="pelican"></category></entry><entry><title>w13課程網誌</title><link href="./41123142_w13.html" rel="alternate"></link><published>2024-05-17T13:20:00+08:00</published><updated>2024-05-17T09:06:11+08:00</updated><author><name>41123142</name></author><id>tag:None,2024-05-17:./41123142_w13.html</id><summary type="html">&lt;p&gt;網際內容管理與協同產品設計實習課程網誌.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;網際內容管理與協同產品設計實習課程網誌.&lt;/p&gt;
 
 
