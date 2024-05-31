@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習41123142網誌 - w15</title><link href="./" rel="alternate"></link><link href="./feeds/w15.atom.xml" rel="self"></link><id>./</id><updated>2024-05-31T13:20:00+08:00</updated><entry><title>w15課程網誌</title><link href="./41123142_w15.html" rel="alternate"></link><published>2024-05-31T13:20:00+08:00</published><updated>2024-05-31T08:52:42+08:00</updated><author><name>41123142</name></author><id>tag:None,2024-05-31:./41123142_w15.html</id><summary type="html">&lt;p&gt;網際內容管理與協同產品設計實習課程網誌.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;網際內容管理與協同產品設計實習課程網誌.&lt;/p&gt;
+
+
+&lt;h1&gt;內容管理系統15&lt;/h1&gt;
+&lt;p&gt;Git
+可以自行從 https://git-scm.com/download/win 下載 64 位元 Portable 版本.&lt;/p&gt;
+&lt;p&gt;CoppeliaSim
+可以自行從 https://www.coppeliarobotics.com/#download 下載, 舊版本則可從 https://www.coppeliarobotics.com/previousVersions 下載.&lt;/p&gt;
+&lt;p&gt;Putty
+可以自行從 https://www.putty.org/ 下載.&lt;/p&gt;
+&lt;p&gt;ShareX
+可以自行從 https://github.com/ShareX/ShareX/releases 下載.&lt;/p&gt;
+&lt;p&gt;Tiny C Compiler
+可以自行從 https://bellard.org/tcc/ 下載.&lt;/p&gt;
+&lt;p&gt;Solvespace
+可以自行從 https://solvespace.com/download.pl 下載.&lt;/p&gt;
+&lt;p&gt;SCiTE
+可以自行從 https://www.scintilla.org/SciTEDownload.html 下載.&lt;/p&gt;
+&lt;p&gt;Zoomit
+可以自行從 https://learn.microsoft.com/en-us/sysinternals/downloads/zoomit 下載.&lt;/p&gt;
+&lt;p&gt;Process Explorer
+可以自行從 https://learn.microsoft.com/en-us/sysinternals/downloads/process-explorer 下載.&lt;/p&gt;
+&lt;p&gt;Wink
+可以自行從 https://www.debugmode.com/wink.html 下載.&lt;/p&gt;
+&lt;p&gt;MSYS2
+可以自行從 https://www.msys2.org/ 下載.&lt;/p&gt;
+&lt;p&gt;NX1872 相關下載
+Siemens NX1872.7z (需要登入 @nfu.edu.tw)&lt;/p&gt;
+&lt;p&gt;NX1872 的動態連結程式庫採 Python 3.7.1 版本編譯, 以下可攜 Python 3.7.1 採用 gen_py3123_portable.py 結合 get-pip.py 建立. 可與上列可攜式 NX1872 結合用來開發協同產品設計程式套件.&lt;/p&gt;
+&lt;p&gt;專用於 NX1872 用來開發 NXOpen Python 程式的可攜環境: Python_for_NX1872.7z&lt;/p&gt;</content><category term="w15"></category><category term="w15網誌編寫"></category><category term="pelican"></category></entry></feed>
