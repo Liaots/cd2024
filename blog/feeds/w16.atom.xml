@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習41123142網誌 - w16</title><link href="./" rel="alternate"></link><link href="./feeds/w16.atom.xml" rel="self"></link><id>./</id><updated>2024-07-07T13:20:00+08:00</updated><entry><title>w16課程網誌</title><link href="./41123142_w16.html" rel="alternate"></link><published>2024-07-07T13:20:00+08:00</published><updated>2024-06-21T07:45:53+08:00</updated><author><name>41123142</name></author><id>tag:None,2024-07-07:./41123142_w16.html</id><summary type="html">&lt;p&gt;網際內容管理與協同產品設計實習課程網誌.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;網際內容管理與協同產品設計實習課程網誌.&lt;/p&gt;
+
+
+&lt;h1&gt;內容管理系統16&lt;/h1&gt;
+&lt;p&gt;模擬場景建構
+利用 NX 完成繪圖後 , 將檔案轉為 STL , 利用 Solvespace 來使鋼球平衡台能夠進行模擬.&lt;/p&gt;
+&lt;p&gt;cd2023 足球機器人網際場景模擬
+從 mde.tw 下載有足球機器人網際場景模擬的倉儲資料 , 再由各組員擔任球員進行比賽.&lt;/p&gt;</content><category term="w16"></category><category term="w16網誌編寫"></category><category term="pelican"></category></entry></feed>
